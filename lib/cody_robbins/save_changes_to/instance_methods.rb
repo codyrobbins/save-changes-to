@@ -1,5 +1,5 @@
 module CodyRobbins
-  module CreateNew
+  module SaveChangesTo
     module InstanceMethods
       # Updates the attributes of an instance of a model in an appropriately named instance variable in the controller with the attributes in `params` corresponding to the model name.
       #
