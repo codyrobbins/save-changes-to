@@ -1,5 +1,5 @@
-Save Changes To for Rails
-=========================
+Save Changes To
+===============
 
 This Rails plugin makes a `save_changes_to` method available in `ApplicationController` which takes the name of an ActiveRecord model and updates the attributes of an instance of that model an appropriately named instance variable in the controller with the attributes in `params` corresponding to the model name.
 
